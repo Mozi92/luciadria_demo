@@ -1,0 +1,26 @@
+{
+  "name": "luciadria_demo",
+  "version": "1.0.0",
+  "description": "六边形3D案例",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mozi92/luciadria_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mozi92/luciadria_demo/issues"
+  },
+  "homepage": "https://github.com/Mozi92/luciadria_demo#readme",
+  "devDependencies": {
+    "raw-loader": "^4.0.2",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.0.0"
+  }
+}
